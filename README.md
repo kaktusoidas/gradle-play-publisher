@@ -93,7 +93,7 @@ To use GPP, you must create a service account with access to the Play Developer 
 1. Give your service account
    [permissions to publish apps](https://play.google.com/apps/publish#AdminPlace) on your behalf
    1. Click `Invite new user`
-   1. Copypasta the service account email (you can find it in the JSON credentials)
+   1. Copy paste the service account email (you can find it in the JSON credentials)
    1. Don't touch the roles
    1. Specify which apps the service account should have access to:
       <img alt="Minimum Service Account permissions" src="assets/min-perms.png" width="66%" />
